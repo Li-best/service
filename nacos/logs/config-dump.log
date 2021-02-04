@@ -1,0 +1,10 @@
+2021-01-06 09:17:32,174 INFO [dump-all-ok] mall-admin-dev.yaml+DEFAULT_GROUP, 1609749719000, length=846, md5=67ee98554b2c21ee85ee26c6a6b0c2c1
+
+2021-01-06 09:17:32,192 INFO [dump-all-ok] mall-demo-dev.yaml+DEFAULT_GROUP, 1609731555000, length=261, md5=1ee51a0f2563ab42150bcc87b3411c68
+
+2021-01-06 09:17:32,197 INFO [dump-all-ok] mall-gateway-dev.yaml+DEFAULT_GROUP, 1609749749000, length=413, md5=6ff6019028e880e2d7378a7c7a5c22c9
+
+2021-01-06 09:17:32,199 INFO [dump-all-ok] mall-portal-dev.yaml+DEFAULT_GROUP, 1609749779000, length=626, md5=ac28deeae01e464c0518cec3fd12a5b5
+
+2021-01-06 09:17:32,202 INFO [dump-all-ok] mall-search-dev.yaml+DEFAULT_GROUP, 1609749791000, length=325, md5=a5342e0c074841b6872b77c9f097875c
+
